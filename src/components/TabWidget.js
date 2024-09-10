@@ -37,13 +37,13 @@ const TabsWidget = () => {
       <div className="p-4 custom-scrollbar my-2">
         {activeTab === 'aboutMe' &&
           <div className='flex text-[#969696] h-h-12  px-1 overflow-y-scroll'>
-            Hello! I'm Ayush Anand, a passionate web developer and technology enthusiast currently in my 3rd year of Electronics and Communication Engineering at UIET, Panjab University. With a strong foundation in HTML, CSS, and JavaScript, I specialize in full-stack development using the MERN stack.
-
-            My journey in tech began with a fascination for electronics and grew into a deep interest in web development. I have hands-on experience in building applications, from developing user authentication and real-time chat features to creating interactive geospatial web portals. I'm currently focused on integrating AI-driven solutions into my projects, such as developing a virtual personal trainer and enhancing fitness tracking with machine learning.
-
-            Outside of coding, I enjoy exploring new technologies, working on innovative projects, and staying active in the tech community. I'm always eager to learn and apply new skills, and I'm excited about the opportunities that lie ahead in the world of software engineering.
-
-            Feel free to connect with me to discuss tech, collaborate on projects, or just chat about the latest trends in web development!
+           I am pursuing a B.E. in Information Technology at UIET, Panjab University, Chandigarh, with a focus on full-stack 
+web development. I have strong experience in the MERN stack (MongoDB, Express.js, React.js, Node.js) for 
+building dynamic, scalable web applications. Proficient in Data Structures and Algorithms (C++), Object
+Oriented Programming (OOP), and RESTful API development, I specialize in both front-end and back-end 
+development, creating responsive web designs and optimizing user interfaces (UI). I have worked on database 
+management, cloud deployment, and version control systems like Git/GitHub. Actively participating in 
+hackathons has sharpened my ability to solve real-world problems with technology
 
 
           </div>}
